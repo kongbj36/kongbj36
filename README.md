@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+## I am Korean living in Tokyo
+
+- 🌱 I’m currently learning ...
+
 <!--
 **kongbj36/kongbj36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
