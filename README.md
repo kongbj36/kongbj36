@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I am Korean living in Tokyo
+## I am Korean living in Fukuoka
 
 - 🌱 I’m currently learning ...
 
